@@ -1,0 +1,8 @@
+(This file has the content when retrieve is done with decrypted option)
+
+RESULTS - 
+
+Your passwords in decrypted form are as follows - 
+instagram -> 123
+facebook -> 456
+netbanking -> lol

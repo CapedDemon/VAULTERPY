@@ -1,0 +1,8 @@
+(This file has the content when retrieve is done with encrypted option)
+
+RESULTS - 
+
+Your passwords in encrypted form are as follows - 
+instagram <-> b'gAAAAABiP0Nk_V7d5sQWeCt_0fTyZydAngPkpdzJ-yT-Yy_pTedMjJC5JUTzilmG0NpzHl5nuEOkNHiKM2r-NNjLvRUZnw6rdg=='
+facebook <-> b'gAAAAABiP0NtsAYuVM0M1H-vyZKAO55RwzEG13qS1q9MyLG9El99QolXruUD_VfT6-a_Oz8EGlYHlYjrDUsmtBJeZpdJamz1SQ=='
+netbanking <-> b'gAAAAABiP0N4YVT8CCOVw9lW_DAoo4XsVE7JPJto41zAYLSG3XWUf0WEn5BWrIm-1PY99NLgObGv5UZBBjUEDnsgz02t1fXdbw=='
