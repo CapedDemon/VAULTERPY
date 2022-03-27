@@ -31,7 +31,7 @@ The Installation is pretty easy.
 - Make a directory in your computer to store the files.
 - Go into the directory and clone the git repository
 ```
-git clone 
+git clone https://github.com/Shreejan-35/PYVAULT.git
 ```
 - Then go int the *src* directory.
 - Open your favourite terminal, and type this commands
