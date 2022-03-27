@@ -1,7 +1,7 @@
 # **PYVAULT**
 ### _SAFE YOUR PASSWORDS_
 
-***PYVAULT*** is a python program with which you can secure your precious passwords very easily.*
+***PYVAULT** is a python program with which you can secure your precious passwords very easily.*
 
 ## Features
 - Stores your passwords in database
