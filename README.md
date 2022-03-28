@@ -54,6 +54,6 @@ Before inserting or retriving passwords, press **L** to load your secret key.
 See the test directory in src to see some previous passwords which I stored in the database and also the key which is generated.
 
 # License
-GNU Public License
+MIT License
 
 ***FOLLOW ME ON INSTAGRAM @star_cyber_warrior***
