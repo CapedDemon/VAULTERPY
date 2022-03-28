@@ -1,0 +1,13 @@
+LICENSE.md
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/vaulter_py/__init__.py
+src/vaulter_py/passvault.py
+src/vaulter_py.egg-info/PKG-INFO
+src/vaulter_py.egg-info/SOURCES.txt
+src/vaulter_py.egg-info/dependency_links.txt
+src/vaulter_py.egg-info/entry_points.txt
+src/vaulter_py.egg-info/requires.txt
+src/vaulter_py.egg-info/top_level.txt
